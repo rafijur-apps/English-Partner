@@ -1,0 +1,55 @@
+{
+  "id": "/",
+  "name": "English Partner — Spoken English Practice",
+  "short_name": "EngPartner",
+  "description": "500 Spoken English sentences and 500 essential vocabulary words with audio pronunciation, South Asian speech practice, and interactive MCQ tests.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0F172A",
+  "background_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "books", "productivity"],
+  "shortcuts": [
+    {
+      "name": "বাক্য প্র্যাকটিস",
+      "short_name": "Sentences",
+      "description": "স্পোকেন ইংলিশ বাক্য প্র্যাকটিস করুন",
+      "url": "/?tab=sentences",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "শব্দ ভাণ্ডার ও টেস্ট",
+      "short_name": "Quiz",
+      "description": "ভোকাবুলারি ও এমসিকিউ টেস্ট",
+      "url": "/?tab=vocabulary",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

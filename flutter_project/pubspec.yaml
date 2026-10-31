@@ -1,0 +1,33 @@
+name: english_partner
+description: "English Partner — Spoken English Practice & Vocabulary Mobile App for Bengali Speakers."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_tts: ^4.2.2
+  speech_to_text: ^7.0.0
+  shared_preferences: ^2.5.3
+  google_fonts: ^6.2.1
+  csv: ^6.0.0
+  audioplayers: ^6.1.1
+  flutter_staggered_animations: ^1.1.1
+  string_similarity: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/spoken_english_500_sentences.csv
+    - assets/spoken_english_500_vocabulary.csv

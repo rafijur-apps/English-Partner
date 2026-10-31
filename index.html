@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="bn" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>English Partner — Spoken English & Vocabulary</title>
+    <meta name="description" content="Complete cross-platform spoken English practice and vocabulary app with Bengali translations, speech recognition, audio pronunciation, and interactive MCQ tests." />
+    <meta property="og:title" content="English Partner — Spoken English & Vocabulary" />
+    <meta property="og:description" content="Complete cross-platform spoken English practice and vocabulary app with Bengali translations, speech recognition, audio pronunciation, and interactive MCQ tests." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- PWA & Android WebAPK Metadata -->
+    <meta name="theme-color" content="#0F172A" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="EngPartner" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <script>
+      // Make window.fetch writable with getter and setter to prevent extension injection errors
+      (function () {
+        try {
+          var originalFetch = typeof window.fetch === 'function' ? window.fetch.bind(window) : null;
+          var _fetch = originalFetch;
+          Object.defineProperty(window, 'fetch', {
+            get: function () {
+              return _fetch;
+            },
+            set: function (val) {
+              _fetch = val;
+            },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (e) {
+          // Continue gracefully
+        }
+
+        // Suppress and swallow external chrome extension injection errors
+        window.addEventListener('error', function (event) {
+          if (
+            (event.filename && event.filename.indexOf('chrome-extension://') !== -1) ||
+            (event.message && event.message.indexOf('Cannot set property fetch') !== -1)
+          ) {
+            event.preventDefault();
+            event.stopImmediatePropagation();
+            return true;
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function (event) {
+          if (
+            event.reason &&
+            typeof event.reason.message === 'string' &&
+            event.reason.message.indexOf('Cannot set property fetch') !== -1
+          ) {
+            event.preventDefault();
+            event.stopImmediatePropagation();
+          }
+        }, true);
+
+        // Register Service Worker for PWA / WebAPK installability
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', function () {
+            navigator.serviceWorker.register('/sw.js').then(function (reg) {
+              console.log('PWA ServiceWorker registered with scope:', reg.scope);
+            }).catch(function (err) {
+              console.warn('ServiceWorker registration failed:', err);
+            });
+          });
+        }
+      })();
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-slate-900 text-slate-100 antialiased selection:bg-sky-500/20 selection:text-sky-300">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,501 @@
+﻿ID,Word,Part_Of_Speech,Category,Bengali_Meaning
+1,Tired,adj,Daily Life,ক্লান্ত / পরিশ্রান্ত
+2,Exhausted,adj,Daily Life,চরমভাবে ক্লান্ত
+3,Anxious,adj,Daily Life,উদ্বিগ্ন / চিন্তিত
+4,Relieved,adj,Daily Life,স্বস্তিবোধ করছে এমন
+5,Curious,adj,Daily Life,কৌতূহলী / জানার আগ্রহী
+6,Grateful,adj,Daily Life,কৃতজ্ঞ
+7,Punctual,adj,Daily Life,সময়নিষ্ঠ / নিয়ম মেনে চলা
+8,Hesitant,adj,Daily Life,দ্বিধাগ্রস্ত / ইতস্তত
+9,Confident,adj,Daily Life,আত্মবিশ্বাসী
+10,Frustrated,adj,Daily Life,হতাশ / বিরক্ত
+11,Delighted,adj,Daily Life,অত্যন্ত আনন্দিত
+12,Clumsy,adj,Daily Life,অগোছালো / বেমানান
+13,Cautious,adj,Daily Life,সতর্ক / সাবধানী
+14,Stubborn,adj,Daily Life,একগুঁয়ে / জেদি
+15,Generous,adj,Daily Life,উদার / দানশীল
+16,Honest,adj,Daily Life,সৎ / অকপট
+17,Patient,adj,Daily Life,ধৈর্যশীল
+18,Restless,adj,Daily Life,অস্থির / চঞ্চল
+19,Overwhelmed,adj,Daily Life,চাপের মুখে দিশেহারা
+20,Enthusiastic,adj,Daily Life,উৎসাহী / উদ্দীপিত
+21,Errand,noun,Daily Life,ছোটখাটো টুকিটাকি কাজ
+22,Groceries,noun,Daily Life,কাঁচাবাজার ও নিত্যপ্রয়োজনীয় সদাই
+23,Pavement,noun,Daily Life,ফুটপাত / পাকা হাঁটা পথ
+24,Commute,noun/verb,Daily Life,প্রতিদিনের কর্মস্থলে যাতায়াত
+25,Congestion,noun,Daily Life,যানজট / অতিরিক্ত ভিড়
+26,Appetite,noun,Daily Life,ক্ষুধা / খাওয়ার রুচি
+27,Recipe,noun,Daily Life,রান্নার প্রণালী বা নিয়ম
+28,Chores,noun,Daily Life,ঘরের নিয়মিত কাজকর্ম
+29,Laundry,noun,Daily Life,ধোয়ার জন্য রাখা কাপড়চোপড়
+30,Receipt,noun,Daily Life,ক্রয়ের রসিদ বা ক্যাশমেমো
+31,Bargain,noun/verb,Daily Life,দামে লাভজনক চুক্তি / দরদাম করা
+32,Affordable,adj,Daily Life,সাশ্রয়ী / ক্রয়ক্ষমতার মধ্যে
+33,Expensive,adj,Daily Life,ব্যয়বহুল / চড়া দামের
+34,Discount,noun,Daily Life,মূল্যছাড় / কমিশন
+35,Refund,noun/verb,Daily Life,টাকা ফেরত বা রিফান্ড
+36,Convenient,adj,Daily Life,সুবিধাজনক / আরামদায়ক
+37,Crowded,adj,Daily Life,জনাকীর্ণ / গাদাগাদি ভিড়
+38,Noisy,adj,Daily Life,কোলাহলপূর্ণ / উচ্চশব্দময়
+39,Quiet,adj,Daily Life,শান্ত / নিরিবিলি
+40,Peaceful,adj,Daily Life,শান্তিপূর্ণ / মনোরম
+41,Unusual,adj,Daily Life,অস্বাভাবিক / ব্যতিক্রমী
+42,Familiar,adj,Daily Life,পরিচিত / চেনা জানা
+43,Messy,adj,Daily Life,এলোমেলো / অপরিচ্ছন্ন
+44,Tidy,adj,Daily Life,গোছানো / পরিপাটি
+45,Temporary,adj,Daily Life,অস্থায়ী
+46,Permanent,adj,Daily Life,স্থায়ী
+47,Fragile,adj,Daily Life,ভঙ্গুর / সহজে ভেঙে যায় এমন
+48,Sturdy,adj,Daily Life,মজবুত / শক্তপোক্ত
+49,Cozy,adj,Daily Life,আরামদায়ক ও উষ্ণ
+50,Spacious,adj,Daily Life,প্রশস্ত / খোলামেলা জায়গা
+51,Borrow,verb,Daily Life,ধার নেওয়া
+52,Lend,verb,Daily Life,ধার দেওয়া
+53,Repair,verb,Daily Life,মেরামত করা
+54,Replace,verb,Daily Life,প্রতিস্থাপন করা বা বদলে নেওয়া
+55,Discard,verb,Daily Life,ফেলে দেওয়া / বর্জন করা
+56,Purchase,verb/noun,Daily Life,ক্রয় করা বা কেনাকাটা
+57,Consume,verb,Daily Life,ভোগ করা / খাওয়া
+58,Complain,verb,Daily Life,অভিযোগ করা
+59,Apologize,verb,Daily Life,ক্ষমা প্রার্থনা করা
+60,Appreciate,verb,Daily Life,প্রশংসা করা বা কদর বোঝা
+61,Bother,verb,Daily Life,বিরক্ত করা বা ভাবানো
+62,Ignore,verb,Daily Life,উপেক্ষা করা বা এড়িয়ে যাওয়া
+63,Notice,verb,Daily Life,খেয়াল করা বা নজরে পড়া
+64,Recognize,verb,Daily Life,চিনতে পারা
+65,Remember,verb,Daily Life,মনে রাখা বা স্মরণ করা
+66,Remind,verb,Daily Life,মনে করিয়ে দেওয়া
+67,Forget,verb,Daily Life,ভুলে যাওয়া
+68,Discover,verb,Daily Life,আবিষ্কার করা / খুঁজে পাওয়া
+69,Wonder,verb,Daily Life,বিস্মিত হওয়া বা কৌতুহলী হওয়া
+70,Doubt,noun/verb,Daily Life,সন্দেহ করা বা সংশয়
+71,Suddenly,adv,Daily Life,হঠাৎ করে
+72,Frequently,adv,Daily Life,ঘন ঘন / বারবার
+73,Rarely,adv,Daily Life,কদাচিৎ / খুব কমই
+74,Hardly,adv,Daily Life,বলতে গেলে প্রায় না
+75,Barely,adv,Daily Life,অল্পের জন্য / কোনোমতে
+76,Probably,adv,Daily Life,সম্ভবত
+77,Definitely,adv,Daily Life,অবশ্যই / নিশ্চিতভাবে
+78,Actually,adv,Daily Life,প্রকৃতপক্ষে / আসলে
+79,Eventually,adv,Daily Life,অবশেষে / দিনশেষে
+80,Gradually,adv,Daily Life,ধীরে ধীরে / ক্রমান্বয়ে
+81,Instantly,adv,Daily Life,তাত্ক্ষণিকভাবে
+82,Constantly,adv,Daily Life,অবিরাম / একটানা
+83,Carefully,adv,Daily Life,সাবধানে / সতর্কতার সাথে
+84,Clearly,adv,Daily Life,পরিষ্কারভাবে / স্পষ্টভাবে
+85,Quietly,adv,Daily Life,শান্তভাবে / নীরবে
+86,Politely,adv,Daily Life,ভদ্রভাবে
+87,Honestly,adv,Daily Life,সততার সাথে / সত্যিই
+88,Naturally,adv,Daily Life,স্বাভাবিকভাবেই
+89,Specifically,adv,Daily Life,সুনির্দিষ্টভাবে
+90,Generally,adv,Daily Life,সাধারণত
+91,Habit,noun,Daily Life,অভ্যাস
+92,Routine,noun,Daily Life,দৈনন্দিন কাজের ধরাবাঁধা নিয়ম
+93,Priority,noun,Daily Life,অগ্রাধিকার
+94,Opportunity,noun,Daily Life,সুযোগ বা সুবিধা
+95,Challenge,noun,Daily Life,প্রতিদ্বন্দ্বিতা বা কঠিন কাজ
+96,Solution,noun,Daily Life,সমাধান
+97,Result,noun,Daily Life,ফলাফল
+98,Mistake,noun,Daily Life,ভুল
+99,Advice,noun,Daily Life,উপদেশ বা পরামর্শ
+100,Opinion,noun,Daily Life,ব্যক্তিগত মতামত
+101,Clarify,verb,Communication,পরিষ্কার বা স্পষ্ট করে বলা
+102,Elaborate,verb,Communication,বিস্তারিত ব্যাখ্যা করা
+103,Articulate,verb/adj,Communication,স্পষ্টভাবে নিজের কথা বোঝাতে পারা
+104,Emphasize,verb,Communication,কোনো বিষয়ে জোর দেওয়া
+105,Persuade,verb,Communication,কাউকে কোনো বিষয়ে রাজি করানো
+106,Convince,verb,Communication,আশ্বস্ত করা বা বিশ্বাস করানো
+107,Negotiate,verb,Communication,দরদাম বা সমঝোতার আলাপ করা
+108,Compromise,noun/verb,Communication,উভয়পক্ষের স্বার্থ দেখে আপস করা
+109,Dispute,noun/verb,Communication,তর্ক-বিতর্ক বা মতভেদ
+110,Consensus,noun,Communication,সবার সর্বসম্মত ঐক্যমত
+111,Assumption,noun,Communication,প্রমাণ ছাড়া কোনো অনুমান ধরে নেওয়া
+112,Hypothesis,noun,Communication,পরীক্ষা করার জন্য প্রাথমিক ধারণা
+113,Perspective,noun,Communication,কোনো বিষয়ে দেখার নিজস্ব দৃষ্টিভঙ্গি
+114,Viewpoint,noun,Communication,মতামত বা পর্যবেক্ষণ কোণ
+115,Implication,noun,Communication,কোনো কাজের পরোক্ষ প্রভাব বা ফল
+116,Consequence,noun,Communication,কাজের চূড়ান্ত ফলাফল বা পরিণতি
+117,Rationale,noun,Communication,কোনো সিদ্ধান্ত নেওয়ার পেছনের মূল কারণ
+118,Objective,noun/adj,Communication,মূল লক্ষ্য বা উদ্দেশ্য / পক্ষপাতহীন
+119,Subjective,adj,Communication,ব্যক্তিগত পছন্দ-অপছন্দ নির্ভর
+120,Ambiguous,adj,Communication,অস্পষ্ট / দ্ব্যর্থবোধক
+121,Vague,adj,Communication,অস্পষ্ট বা আবছা
+122,Precise,adj,Communication,একদম নিখুঁত ও সঠিক
+123,Accurate,adj,Communication,নির্ভুল / যথাযথ
+124,Explicit,adj,Communication,খোলামেলা ও স্পষ্ট নির্দেশিত
+125,Implicit,adj,Communication,ইঙ্গিতপূর্ণ / মুখে না বললেও স্পষ্ট
+126,Coherent,adj,Communication,যুক্তিসঙ্গত ও সুসংগত
+127,Contradict,verb,Communication,আগের কথার বিপরীত কথা বলা
+128,Reiterate,verb,Communication,গুরুত্ব বোঝাতে কথার পুনরাবৃত্তি করা
+129,Summarize,verb,Communication,সংক্ষেপে মূল কথা তুলে ধরা
+130,Paraphrase,verb,Communication,অন্যের কথা নিজের ভাষায় বলা
+131,Feedback,noun,Communication,কাজের ওপর গঠনমূলক মতামত
+132,Constructive,adj,Communication,গঠনমূলক / যা উন্নতি করতে সাহায্য করে
+133,Criticism,noun,Communication,সমালোচনা বা ভুল ধরা
+134,Justify,verb,Communication,কোনো কাজের পক্ষে যুক্তি দাঁড় করানো
+135,Acknowledge,verb,Communication,স্বীকার করা বা আমলে নেওয়া
+136,Ignore,verb,Communication,উপেক্ষা করা বা এড়িয়ে যাওয়া
+137,Overlook,verb,Communication,অনিচ্ছাকৃতভাবে চোখ এড়িয়ে যাওয়া
+138,Misunderstand,verb,Communication,ভুল বোঝা
+139,Mislead,verb,Communication,ভুল পথে চালিত করা বা বিভ্রান্ত করা
+140,Influence,noun/verb,Communication,প্রভাব বিস্তার করা বা প্রভাব
+141,Inspire,verb,Communication,অনুপ্রাণিত করা
+142,Motivate,verb,Communication,উৎসাহ ও কাজের উদ্যম দেওয়া
+143,Discourage,verb,Communication,হতাশ করা বা নিরুৎসাহিত করা
+144,Hesitate,verb,Communication,ইতস্তত বা দ্বিধা করা
+145,Confident,adj,Communication,দৃঢ়বিশ্বাসী
+146,Assertive,adj,Communication,দৃঢ় কিন্তু ভদ্রভাবে নিজের কথা বলা
+147,Aggressive,adj,Communication,আগ্রাসী বা অতিরিক্ত কর্কশ
+148,Passive,adj,Communication,নিষ্ক্রিয় / উদ্যোগহীন
+149,Diplomatic,adj,Communication,কৌশলী ও বুদ্ধিদীপ্ত কথার মানুষ
+150,Tactful,adj,Communication,বিচক্ষণতার সাথে পরিস্থিতি সামলানো
+151,Deadline,noun,Workplace,কাজ শেষ করার চূড়ান্ত সময়সীমা
+152,Deliverable,noun,Workplace,ক্লায়েন্টকে হস্তান্তর করার মতো তৈরি কাজ
+153,Milestone,noun,Workplace,প্রজেক্টের একটি বড় গুরুত্বপূর্ণ পর্যায়
+154,Workload,noun,Workplace,কাজের মোট চাপ বা বোঝা
+155,Bandwidth,noun,Workplace,অতিরিক্ত কাজ নেওয়ার মতো সময় ও সামর্থ্য
+156,Capacity,noun,Workplace,ধারণক্ষমতা বা কাজের সর্বোচ্চ সামর্থ্য
+157,Bottleneck,noun,Workplace,কাজের গতি আটকে রাখা মূল বাধা
+158,Constraint,noun,Workplace,সীমাবদ্ধতা বা নিয়মের বাঁধন
+159,Tradeoff,noun,Workplace,একটা পেতে গিয়ে অন্যটা ছাড় দেওয়ার হিসাব
+160,Feasible,adj,Workplace,বাস্তবায়নযোগ্য / বাস্তবে করা সম্ভব
+161,Viable,adj,Workplace,টিকে থাকার মতো বা সফল হওয়ার যোগ্য
+162,Scalable,adj,Workplace,কাজের আকার বাড়ালেও ঠিকমতো চলা
+163,Sustainable,adj,Workplace,দীর্ঘস্থায়ী বা দীর্ঘমেয়াদে চলার উপযোগী
+164,Efficient,adj,Workplace,কম সময়ে ও খরচে সেরা কাজ করে এমন
+165,Productive,adj,Workplace,উৎপাদনশীল / ফলপ্রসূ
+166,Inefficient,adj,Workplace,অদক্ষ বা সময় নষ্টকারী
+167,Tedious,adj,Workplace,বিরক্তিকর ও দীর্ঘ সময়সাপেক্ষ কাজ
+168,Redundant,adj,Workplace,অপ্রয়োজনীয় বা বাড়তি নকল কাজ
+169,Repetitive,adj,Workplace,একই কাজ বারবার করতে হয় এমন
+170,Automate,verb,Workplace,যন্ত্র বা কোড দিয়ে স্বয়ংক্রিয় করা
+171,Streamline,verb,Workplace,কাজের ধাপ সহজ ও দ্রুততর করা
+172,Optimize,verb,Workplace,সর্বোচ্চ দক্ষতায় রূপান্তর করা
+173,Standardize,verb,Workplace,সবার জন্য একই নিয়ম বা মান ঠিক করা
+174,Implement,verb,Workplace,পরিকল্পনা বাস্তবে কার্যকর করা
+175,Execute,verb,Workplace,কাজ বাস্তবে সম্পন্ন করা
+176,Monitor,verb,Workplace,নিয়মিত নজরদারি রাখা
+177,Supervise,verb,Workplace,অন্যের কাজের তদারকি করা
+178,Delegate,verb,Workplace,নিজের কাজ সহকর্মীদের মাঝে ভাগ করে দেওয়া
+179,Collaborate,verb,Workplace,একাধিক মানুষ বা টিম মিলে কাজ করা
+180,Coordinate,verb,Workplace,সবার কাজের মাঝে সমন্বয় করা
+181,Facilitate,verb,Workplace,কোনো কাজ সহজ করে দেওয়া
+182,Prioritize,verb,Workplace,কোনটা আগে কোনটা পরে তা ঠিক করা
+183,Schedule,noun/verb,Workplace,কাজের সময়সূচি নির্ধারণ করা
+184,Reschedule,verb,Workplace,কাজের সময় পিছিয়ে বা এগিয়ে দেওয়া
+185,Postpone,verb,Workplace,স্থগিত রাখা বা পরের জন্য রাখা
+186,Cancel,verb,Workplace,বাতিল করা
+187,Escalate,verb,Workplace,সমস্যা বড় হলে উর্ধ্বতনকে জানানো
+188,Resolve,verb,Workplace,সমস্যার সমাধান করা
+189,Troubleshoot,verb,Workplace,কোথায় সমস্যা তা খুঁজে বের করে ঠিক করা
+190,Document,verb,Workplace,কাজের নিয়মাবলি লিখে সংরক্ষণ করা
+191,Archive,verb/noun,Workplace,পুরোনো দরকারি ফাইল আলাদা জমিয়ে রাখা
+192,Retrieve,verb,Workplace,জমে থাকা জায়গা থেকে ফাইল উদ্ধার করা
+193,Allocate,verb,Workplace,বাজেট বা লোকবল বণ্টন করা
+194,Budget,noun,Workplace,কাজের আর্থিক বরাদ্দ বা পরিকল্পনা
+195,Expense,noun,Workplace,খরচ বা ব্যয়
+196,Revenue,noun,Workplace,মোট অর্জিত আয়
+197,Profit,noun,Workplace,মুনাফা বা লাভ
+198,Deficit,noun,Workplace,ঘাটতি বা ক্ষতি
+199,Surplus,noun,Workplace,প্রয়োজনের চেয়ে বেশি উদ্বৃত্ত থাকা
+200,Vendor,noun,Workplace,বাইরের সেবাদাতা বা সরবরাহকারী প্রতিষ্ঠান
+201,Stakeholder,noun,Workplace,প্রজেক্টের স্বার্থের সাথে জড়িত পক্ষ
+202,Client,noun,Workplace,গ্রাহক বা সেবা গ্রহীতা
+203,Colleague,noun,Workplace,সহকর্মী
+204,Supervisor,noun,Workplace,কাজের প্রধান বা ম্যানেজার
+205,Subordinate,noun,Workplace,অধস্তন কর্মী
+206,Appraisal,noun,Workplace,কাজের পারফরম্যান্সের আনুষ্ঠানিক মূল্যায়ন
+207,Promotion,noun,Workplace,পদোন্নতি
+208,Resignation,noun,Workplace,চাকরি ছাড়ার পদত্যাগপত্র
+209,Termination,noun,Workplace,চাকরি থেকে অব্যাহতির নোটিশ
+210,Severance,noun,Workplace,চাকরি চলে যাওয়ার সময় দেওয়া ক্ষতিপূরণ
+211,Contract,noun,Workplace,আইনি চুক্তিপত্র
+212,Clause,noun,Workplace,চুক্তির বিশেষ শর্ত বা ধারা
+213,Compliance,noun,Workplace,আইন ও নীতি মেনে চলা
+214,Policy,noun,Workplace,কোম্পানির প্রাতিষ্ঠানিক নীতিমালা
+215,Protocol,noun,Workplace,কাজের আনুষ্ঠানিক নিয়মরীতি
+216,Discretion,noun,Workplace,পরিস্থিতি বুঝে নিজস্ব বিচারবুদ্ধি প্রয়োগ
+217,Confidential,adj,Workplace,গোপনীয় ও স্পর্শকাতর তথ্য
+218,Proprietary,adj,Workplace,কোম্পানির নিজস্ব স্বত্বাধিকারী সম্পদ
+219,Audit,noun/verb,Workplace,হিসাব ও কাজের আনুষ্ঠানিক নিরীক্ষা
+220,Discrepancy,noun,Workplace,হিসাবের গরমিল বা অমিল
+221,Reconciliation,noun,Workplace,দুই পাশের হিসাব মিলিয়ে দেখা
+222,Variance,noun,Workplace,লক্ষ্য ও আসল ফলাফলের মধ্যকার ব্যবধান
+223,Benchmark,noun,Workplace,তুলনা করার জন্য আদর্শ মানদণ্ড
+224,Threshold,noun,Workplace,সীমানা বা নির্দিষ্ট প্রান্তিক মাত্রা
+225,Contingency,noun,Workplace,বিপদের সময়ের বিকল্প ব্যাকআপ প্ল্যান
+226,Risk,noun,Workplace,ঝুঁকি বা বিপদের সম্ভাবনা
+227,Mitigate,verb,Workplace,ঝুঁকির মাত্রা বা ক্ষতি কমিয়ে আনা
+228,Liability,noun,Workplace,আর্থিক বা আইনি দায়দায়িত্ব
+229,Asset,noun,Workplace,মূল্যবান সম্পদ
+230,Turnaround,noun,Workplace,কাজ সম্পন্ন করতে নেওয়া মোট সময়
+231,Backlog,noun,Workplace,জমে থাকা অনিষ্পন্ন কাজের তালিকা
+232,Roadmap,noun,Workplace,ভবিষ্যত কাজের পর্যায়ক্রমিক রূপরেখা
+233,Sprint,noun,Workplace,নির্দিষ্ট সময়ের কাজের ছোট সাইকেল
+234,Retrospective,noun,Workplace,কাজ শেষে কী ভালো বা মন্দ হলো তার পর্যালোচনা
+235,Handover,noun,Workplace,অন্যের কাছে কাজের দায়িত্ব হস্তান্তর
+236,Onboarding,noun,Workplace,নতুন কর্মীকে প্রতিষ্ঠানে পরিচিত করানো
+237,Offboarding,noun,Workplace,চাকরি ছাড়ার আনুষ্ঠানিক বিদায় প্রক্রিয়া
+238,Retention,noun,Workplace,কর্মী বা গ্রাহককে ধরে রাখার হার
+239,Attrition,noun,Workplace,স্বাভাবিক নিয়মে কর্মী কমে যাওয়া
+240,Turnover,noun,Workplace,কর্মী বা মালের আসা-যাওয়ার হার
+241,Incentive,noun,Workplace,ভালো কাজের জন্য আর্থিক বা অন্য পুরস্কার
+242,Compensation,noun,Workplace,কাজের মোট পারিশ্রমিক ও সুযোগসুবিধা
+243,Perk,noun,Workplace,বেতনের বাইরে অতিরিক্ত সুযোগ বা বোনাস
+244,Equity,noun,Workplace,কোম্পানির শেয়ার বা অংশীদারিত্ব
+245,Dividend,noun,Workplace,লাভের অংশ বা লভ্যাংশ
+246,Portfolio,noun,Workplace,কাজের প্রমাণের সংকলন
+247,Resume,noun,Workplace,চাকরির জীবনবৃত্তান্ত
+248,Endorsement,noun,Workplace,কাজের দক্ষতার আনুষ্ঠানিক স্বীকৃতি
+249,Recommendation,noun,Workplace,সুপারিশপত্র
+250,Testimonial,noun,Workplace,কাজের প্রশংসাপত্র বা রিভিউ
+251,Dataset,noun,Analytics,সুসংগঠিত তথ্যের সংগ্রহ বা সেট
+252,Database,noun,Analytics,তথ্য জমা রাখার ডিজিটাল ভাণ্ডার
+253,Warehouse,noun,Analytics,বিশ্লেষণের জন্য বড় কেন্দ্রীয় ডেটা ব্যাংক
+254,Query,noun/verb,Analytics,ডেটাবেস থেকে তথ্য খুঁজতে লেখা কমান্ড
+255,Syntax,noun,Analytics,প্রোগ্রামিং বা কোড লেখার ব্যাকরণ
+256,Schema,noun,Analytics,ডেটাবেসের টেবিল ও কাঠামোর নকশা
+257,Relation,noun,Analytics,টেবিলগুলোর মধ্যকার যৌক্তিক সম্পর্ক
+258,Primary Key,noun,Analytics,টেবিলের প্রতিটি রো-কে চেনার অনন্য চাবি
+259,Foreign Key,noun,Analytics,অন্য টেবিলের সাথে যুক্ত করার সংযোগকারী চাবি
+260,Aggregate,verb/noun,Analytics,অনেক তথ্য একত্র করে মোট বা গড় করা
+261,Clause,noun,Analytics,কোয়েরির বিশেষ শর্তের অংশ (যেমন WHERE)
+262,Partition,noun/verb,Analytics,বড় ডেটাকে নির্দিষ্ট ভাগে বিভক্ত করা
+263,Index,noun/verb,Analytics,দ্রুত তথ্য খোঁজার জন্য সাজানো সূচি
+264,Redundancy,noun,Analytics,একই তথ্যের অনর্থক পুনরাবৃত্তি
+265,Normalization,noun,Analytics,ডেটাবেস সুশৃঙ্খল করে অপচয় কমানো
+266,Denormalization,noun,Analytics,রিপোর্টিং দ্রুত করতে টেবিল জোড়া লাগানো
+267,Extraction,noun,Analytics,বিভিন্ন উৎস থেকে কাঁচা তথ্য টেনে আনা
+268,Transformation,noun,Analytics,কাঁচা তথ্যকে পরিষ্কার ও দরকারি রূপে সাজানো
+269,Ingestion,noun,Analytics,সিস্টেমে নতুন ডেটা প্রবেশ করানো
+270,Pipeline,noun,Analytics,ডেটা এক জায়গা থেকে অন্য জায়গায় যাওয়ার স্বয়ংক্রিয় পথ
+271,Cleansing,noun,Analytics,"ভুল, শূন্য ও ডুপ্লিকেট ডেটা সাফ করা"
+272,Imputation,noun,Analytics,অনুপস্থিত মান যুক্তিসঙ্গত সংখ্যা দিয়ে পূরণ
+273,Outlier,noun,Analytics,সাধারণ মানের চেয়ে অস্বাভাবিক বড় বা ছোট মান
+274,Anomaly,noun,Analytics,স্বাভাবিক নিয়মের বাইরে হঠাৎ ঘটা ব্যতিক্রম
+275,Discrepancy,noun,Analytics,দুই তথ্যের মধ্যে অমিল বা গড়মিল
+276,Variance,noun,Analytics,গড়ের চারপাশে ডেটার ছড়িয়ে পড়ার পরিমাণ
+277,Standard Deviation,noun,Analytics,পরিমিত ব্যবধান বা বিচ্যুতি
+278,Median,noun,Analytics,সাজানো তথ্যের ঠিক মাঝের মান (মধ্যমা)
+279,Mean,noun,Analytics,সব তথ্যের গাণিতিক গড়
+280,Mode,noun,Analytics,সবচেয়ে বেশিবার আসা মান (প্রচুরক)
+281,Percentile,noun,Analytics,শতকরা ভাগের মান (যেমন টপ ১০%)
+282,Correlation,noun,Analytics,দুটি বিষয়ের মধ্যকার পারস্পরিক সম্পর্ক
+283,Causation,noun,Analytics,একটির প্রত্যক্ষ কারণে অন্যটি ঘটার সম্পর্ক
+284,Probability,noun,Analytics,কোনো ঘটনা ঘটার গাণিতিক সম্ভাবনা
+285,Significance,noun,Analytics,ফলাফলটি কাকতালীয় নয়—এর নিশ্চয়তা
+286,Hypothesis,noun,Analytics,যাচাই করার জন্য গৃহীত পূর্বধারণা
+287,Distribution,noun,Analytics,ডেটা কীভাবে ছড়িয়ে রয়েছে তার চিত্র (বিন্যাস)
+288,Skewness,noun,Analytics,ডেটার কোনো একপাশে বেশি ঝুঁকে থাকার অবস্থা
+289,Kurtosis,noun,Analytics,ডেটার চূড়ার তীক্ষ্ণতা বা সূঁচালো ভাব
+290,Sample,noun,Analytics,সমগ্রক থেকে পরীক্ষার জন্য নেওয়া ছোট অংশ
+291,Population,noun,Analytics,গবেষণার আওতাধীন মোট সমগ্রক
+292,Cohort,noun,Analytics,একই সময়ে যুক্ত হওয়া মানুষের নির্দিষ্ট দল
+293,Churn,noun/verb,Analytics,গ্রাহকের সেবা ছেড়ে চলে যাওয়ার হার
+294,Retention,noun,Analytics,গ্রাহককে ধরে রাখার ক্ষমতা বা হার
+295,Acquisition,noun,Analytics,নতুন গ্রাহক বা ক্রেতা সংগ্রহের প্রক্রিয়া
+296,Conversion,noun,Analytics,দর্শনার্থী থেকে আসল ক্রেতায় পরিণত হওয়া
+297,Funnel,noun,Analytics,ধাপে ধাপে গ্রাহক কমে আসার ফানেল চিত্র
+298,Bounce Rate,noun,Analytics,ওয়েবসাইটে ঢুকেই কোনো ক্লিক ছাড়া বের হওয়া
+299,Engagement,noun,Analytics,কনটেন্ট বা সেবায় ব্যবহারকারীর সম্পৃক্ততা
+300,Lifetime Value,noun,Analytics,একজন গ্রাহকের কাছ থেকে পাওয়া মোট আয়
+301,Attribution,noun,Analytics,বিক্রির কৃতিত্ব কোন প্রচারমাধ্যম পাবে তা নির্ধারণ
+302,KPI,noun,Analytics,কাজের মূল কর্মক্ষমতা নির্দেশক সূচক
+303,Metric,noun,Analytics,পরিমাপযোগ্য যেকোনো সংখ্যাগত মান
+304,Dimension,noun,Analytics,"যে দৃষ্টিকোণ থেকে তথ্য দেখা হয় (দেশ, তারিখ)"
+305,Granularity,noun,Analytics,তথ্যের গভীরতা বা বিস্তারিতের সূক্ষ্মতা
+306,Dashboard,noun,Analytics,সব গুরুত্বপূর্ণ সূচক একনজরে দেখার পর্দা
+307,Visual,noun,Analytics,তথ্যের চিত্ররূপ বা গ্রাফ
+308,Hierarchy,noun,Analytics,স্তরীভূত ক্রমবিন্যাস (বছর > মাস > দিন)
+309,Drilldown,verb,Analytics,মোটা দাগ থেকে গভীরে গিয়ে তথ্য দেখা
+310,Rollup,verb,Analytics,নিচের তথ্যগুলো একত্র করে মোট দেখা
+311,Slice,verb,Analytics,নির্দিষ্ট ফিল্টার দিয়ে ডেটার অংশ কেটে দেখা
+312,Dice,verb,Analytics,একাধিক দৃষ্টিকোণ থেকে ডেটা খণ্ড করা
+313,Measure,noun,Analytics,ক্যালকুলেশন করে বের করা সংখ্যাগত মান
+314,Cardinality,noun,Analytics,কলামে অনন্য বা ইউনিক মানের সংখ্যা
+315,Null,noun/adj,Analytics,ডেটাবেসে কোনো মান না থাকা (শূন্য নয়)
+316,Boolean,noun/adj,Analytics,সত্য বা মিথ্যা নির্দেশক ডেটা টাইপ
+317,String,noun,Analytics,বর্ণ বা টেক্সট জাতীয় ডেটা
+318,Integer,noun,Analytics,পূর্ণসংখ্যা জাতীয় ডেটা
+319,Decimal,noun,Analytics,ভগ্নাংশ বা দশমিক সংখ্যা
+320,Timestamp,noun,Analytics,তারিখ ও সুনির্দিষ্ট সময়ের রেকর্ড
+321,Join,noun/verb,Analytics,মিল থাকা কলাম দিয়ে দুটি টেবিল জোড়া দেওয়া
+322,Union,noun/verb,Analytics,একই ধরণের দুটি টেবিল উপর-নিচে জোড়া দেওয়া
+323,Filter,noun/verb,Analytics,শর্ত দিয়ে নির্দিষ্ট তথ্য ছেঁকে আলাদা করা
+324,Sort,verb,Analytics,ছোট থেকে বড় বা উল্টোভাবে সাজানো
+325,Ascending,adj,Analytics,ছোট থেকে বড় ক্রমানুসারে
+326,Descending,adj,Analytics,বড় থেকে ছোট ক্রমানুসারে
+327,Limit,verb/noun,Analytics,ফলাফলের রো সংখ্যা বেঁধে দেওয়া
+328,Offset,noun/verb,Analytics,প্রথম কিছু সংখ্যক রো এড়িয়ে যাওয়া
+329,Alias,noun,Analytics,কলাম বা টেবিলের দেওয়া ডাকনাম বা সংক্ষিপ্ত নাম
+330,Subquery,noun,Analytics,একটি কোয়েরির ভেতরে লেখা আরেকটি ছোট কোয়েরি
+331,Window Function,noun,Analytics,সারি না কমিয়ে রানিং টোটাল ইত্যাদি গোনা
+332,Partition By,phrase,Analytics,উইন্ডো ফাংশনে ডেটাকে গ্রুপে ভাগ করা
+333,Order By,phrase,Analytics,সারিবদ্ধভাবে তথ্যের ক্রম নির্ধারণ
+334,Group By,phrase,Analytics,একই মানের রোগুলোকে এক ছাতার নিচে আনা
+335,Having,clause,Analytics,গ্রুপ করার পর এগ্রিগেট মানের ওপর শর্ত দেওয়া
+336,Conditional,adj,Analytics,শর্তসাপেক্ষ (যেমন CASE WHEN)
+337,Expression,noun,Analytics,মান বের করার গাণিতিক বা যৌক্তিক সূত্র
+338,Parameter,noun,Analytics,বাইরে থেকে পরিবর্তন করার মতো পরিবর্তনশীল মান
+339,Semantic,adj,Analytics,তথ্যের আসল অর্থ বা ব্যবহারের প্রাসঙ্গিকতা
+340,Modeling,noun,Analytics,টেবিলের সম্পর্ক ও নিয়মের পূর্ণাঙ্গ ব্লুপ্রিন্ট
+341,Star Schema,noun,Analytics,মাঝে ফ্যাক্ট টেবিল ও চারপাশে ডাইমেনশন টেবিল
+342,Snowflake,noun,Analytics,স্টার স্কিমার ডাইমেনশন যখন আরও ভাঙে
+343,Fact Table,noun,Analytics,লেনদেন ও সংখ্যাগত মেট্রিক্সের মূল টেবিল
+344,Dimension Table,noun,Analytics,"কে, কখন, কোথায় সংক্রান্ত বিস্তারিত টেবিল"
+345,Surrogate Key,noun,Analytics,সিস্টেমের তৈরি কৃত্রিম পরিচয় নম্বর
+346,Composite Key,noun,Analytics,একাধিক কলাম মিলে তৈরি একটি ইউনিক চাবি
+347,Indexing,noun,Analytics,দ্রুত পড়ার জন্য সূচিপত্র তৈরি
+348,Latency,noun,Analytics,অনুরোধ করা থেকে ডেটা আসতে লাগা সময়
+349,Throughput,noun,Analytics,প্রতি সেকেন্ডে সিস্টেমের ডেটা পার করার ক্ষমতা
+350,Scalability,noun,Analytics,চাপ বাড়লেও সিস্টেম বড় করে সামলানোর ক্ষমতা
+351,Bandwidth,noun,Analytics,তথ্য পরিবহনের মোট নেটওয়ার্ক সামর্থ্য
+352,Audit Log,noun,Analytics,কে কখন কী পরিবর্তন করল তার ডিজিটাল প্রমাণ
+353,Governance,noun,Analytics,তথ্যের নিরাপত্তা ও সঠিক ব্যবহারের নিয়মাবলি
+354,Integrity,noun,Analytics,তথ্যের বিশুদ্ধতা ও নির্ভুলতা বজায় থাকা
+355,Security,noun,Analytics,অননুমোদিত প্রবেশ থেকে তথ্য রক্ষা করা
+356,Masking,noun,Analytics,গোপনীয় ডেটা আড়াল করে সাধারণ কর্মীদের দেখানো
+357,Encryption,noun,Analytics,ডেটাকে সাংকেতিক ভাষায় রূপান্তর করে লক করা
+358,Authentication,noun,Analytics,ব্যবহারকারীর সঠিক পরিচয় নিশ্চিতকরণ
+359,Authorization,noun,Analytics,কোন কোন ফাইল দেখার অনুমতি আছে তা ঠিক করা
+360,Credentials,noun,Analytics,"ইউজারনেম, পাসওয়ার্ড ও অ্যাক্সেস কি"
+361,Token,noun,Analytics,অস্থায়ী ডিজিটাল প্রবেশপত্র
+362,Session,noun,Analytics,লগইন থেকে লগআউট পর্যন্ত সময়কাল
+363,Cache,noun,Analytics,দ্রুত লোডের জন্য সাময়িক জমিয়ে রাখা ডেটা
+364,Buffer,noun,Analytics,ডেটা আসার মাঝখানের সাময়িক জমা স্থান
+365,Batch,noun/adj,Analytics,একটানা না করে দলবদ্ধভাবে একসাথে করা
+366,Real-time,adj,Analytics,ঘটনা ঘটার সাথে সাথে তাত্ক্ষণিকভাবে ঘটা
+367,Streaming,noun,Analytics,নিরবচ্ছিন্নভাবে অবিরাম ডেটা প্রবাহিত হওয়া
+368,Ingest,verb,Analytics,বাইরের ডেটা সিস্টেমে টেনে ঢোকানো
+369,Export,verb,Analytics,সিস্টেম থেকে ফাইল বাইরে বের করে নেওয়া
+370,Import,verb,Analytics,বাইরের ফাইল সিস্টেমে লোড করা
+371,Migrate,verb,Analytics,এক ডেটাবেস থেকে সব ডেটা অন্যটিতে সরানো
+372,Deprecate,verb,Analytics,পুরোনো ফিচার বা কোড বাতিল হিসেবে ঘোষণা
+373,Legacy,adj,Analytics,অনেক পুরোনো ও সেকেলে কিন্তু চলমান সিস্টেম
+374,Repository,noun,Analytics,কোড ও প্রজেক্টের যাবতীয় ফাইলের ভাণ্ডার
+375,Version Control,noun,Analytics,কোডের অতীত ইতিহাস ও পরিবর্তনের ট্র্যাকিং
+376,Strategic,adj,Professional,দীর্ঘমেয়াদী সাফল্যের পরিকল্পনা সংক্রান্ত
+377,Tactical,adj,Professional,তাত্ক্ষণিক সমস্যা সমাধানের ছোট পদক্ষেপ
+378,Operational,adj,Professional,দৈনন্দিন অফিস পরিচালনার কাজকর্ম সংক্রান্ত
+379,Executive,adj/noun,Professional,কোম্পানির শীর্ষ নীতি-নির্ধারণী কর্মকর্তা
+380,Leadership,noun,Professional,দলকে সঠিক পথে এগিয়ে নেওয়ার নেতৃত্ব
+381,Accountability,noun,Professional,কাজের ফলাফলের জন্য নিজের জবাবদিহিতা
+382,Transparency,noun,Professional,কাজে ও তথ্যে কোনো লুকোচুরি না থাকা
+383,Integrity,noun,Professional,নৈতিক সততা ও অবিচল আদর্শ
+384,Credibility,noun,Professional,অন্যের চোখে নিজের নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতা
+385,Competence,noun,Professional,কাজ নিখুঁতভাবে করার পেশাদার সামর্থ্য
+386,Proficiency,noun,Professional,কোনো বিষয়ে উচ্চস্তরের দক্ষতা
+387,Expertise,noun,Professional,দীর্ঘদিনের চর্চায় অর্জিত বিশেষ জ্ঞান
+388,Versatility,noun,Professional,একাধিক ভিন্ন ধরণের কাজে পারদর্শী হওয়া
+389,Adaptability,noun,Professional,নতুন পরিবেশে দ্রুত নিজেকে মানিয়ে নেওয়ার ক্ষমতা
+390,Resilience,noun,Professional,ধাক্কা বা ব্যর্থতা সামলে আবার উঠে দাঁড়ানো
+391,Perseverance,noun,Professional,কঠিন পরিস্থিতিতেও লক্ষ্যে অবিচল থাকা
+392,Initiative,noun,Professional,কেউ বলার আগেই নিজে থেকে কাজ শুরুর উদ্যোগ
+393,Proactive,adj,Professional,সমস্যা ঘটার আগেই সচেতন হয়ে প্রস্তুতি নেওয়া
+394,Reactive,adj,Professional,সমস্যা ঘটে যাওয়ার পর তাড়াহুড়ো করে ব্যবস্থা নেওয়া
+395,Diligence,noun,Professional,অধ্যবসায় ও একাগ্র মনোযোগ
+396,Meticulous,adj,Professional,খুঁটিনাটি বিষয়ে ভীষণ যত্নশীল ও নিখুঁত
+397,Thorough,adj,Professional,আদ্যোপান্ত পুঙ্খানুপুঙ্খভাবে সম্পন্ন করা
+398,Consistent,adj,Professional,প্রতিদিন একই রকম মান ও শৃঙ্খলা ধরে রাখা
+399,Reliable,adj,Professional,যাঁর ওপর চোখ বন্ধ করে ভরসা করা যায়
+400,Dependable,adj,Professional,যাঁর ওপর কাজের দায়িত্ব নির্দ্বিধায় ছেড়ে দেওয়া যায়
+401,Resourceful,adj,Professional,অল্প উপকরণ দিয়েও বুদ্ধি খাটিয়ে কাজ বের করা
+402,Autonomous,adj,Professional,কারও পাহারা ছাড়াই নিজে দায়িত্ব নিয়ে চলা
+403,Pragmatic,adj,Professional,তাত্ত্বিক কথার চেয়ে ব্যবহারিক সমাধানকে গুরুত্ব দেওয়া
+404,Realistic,adj,Professional,বাস্তবধর্মী ও অর্জনযোগ্য চিন্তা
+405,Visionary,adj/noun,Professional,দূরদর্শী / যিনি ভবিষ্যতের সম্ভাবনা দেখতে পান
+406,Innovation,noun,Professional,নতুন ও অভিনব পদ্ধতির উদ্ভাবন
+407,Disruption,noun,Professional,পুরোনো সেকেলে পদ্ধতি ভেঙে নতুন বিপ্লব আনা
+408,Benchmark,noun/verb,Professional,শ্রেষ্ঠত্বের আদর্শ মানদণ্ড
+409,Leverage,verb/noun,Professional,সুযোগ বা শক্তিকে কাজে লাগিয়ে বড় ফল লাভ
+410,Synergy,noun,Professional,মিলিত প্রচেষ্টায় এককের চেয়ে বড় শক্তির সৃষ্টি
+411,Holistic,adj,Professional,"আংশিক নয়, পুরো বিষয়কে সামগ্রিকভাবে দেখা"
+412,Comprehensive,adj,Professional,কোনো কিছু বাদ না দিয়ে সবকিছু অন্তর্ভুক্ত করা
+413,Concise,adj,Professional,অতিরিক্ত কথা ছাড়া একদম স্পষ্ট ও সংক্ষেপ
+414,Succinct,adj,Professional,অল্প কথায় গভীর অর্থ ফুটিয়ে তোলা
+415,Lucid,adj,Professional,সহজবোধ্য / পানির মতো পরিষ্কার ব্যাখ্যা
+416,Ambiguity,noun,Professional,অস্পষ্টতা বা বিভ্রান্তিকর অবস্থা
+417,Certainty,noun,Professional,নিশ্চয়তা ও সন্দেহহীনতা
+418,Uncertainty,noun,Professional,ভবিষ্যত নিয়ে অনিশ্চয়তা
+419,Volatility,noun,Professional,হঠাৎ দ্রুত ওঠানামা করার প্রবণতা
+420,Stability,noun,Professional,স্থায়িত্ব ও ভারসাম্য
+421,Equilibrium,noun,Professional,ভারসাম্যপূর্ণ আদর্শ অবস্থা
+422,Stagnation,noun,Professional,কোনো উন্নতি বা নড়াচড়া ছাড়া স্থবির হয়ে থাকা
+423,Momentum,noun,Professional,কাজের তীব্র গতি ও এগিয়ে চলার শক্তি
+424,Velocity,noun,Professional,নির্দিষ্ট অভিমুখে কাজের দ্রুততম গতি
+425,Acceleration,noun,Professional,কাজের গতি আরও বাড়িয়ে তোলা
+426,Friction,noun,Professional,কাজের পথে বাধা বা পারস্পরিক বিরোধ
+427,Fulfillment,noun,Professional,লক্ষ্য অর্জন বা আত্মতৃপ্তি পাওয়া
+428,Satisfaction,noun,Professional,কাজের তৃপ্তি বা সন্তুষ্টি
+429,Gratification,noun,Professional,আনন্দ ও পুরস্কৃত হওয়ার অনুভূতি
+430,Frustration,noun,Professional,চেষ্টা করেও না পারার হতাশা ও বিরক্তি
+431,Disappointment,noun,Professional,প্রত্যাশা অনুযায়ী ফল না পাওয়ার মনবেদনা
+432,Setback,noun,Professional,সাময়িক ধাক্কা বা পিছিয়ে পড়া
+433,Comeback,noun,Professional,পতনের পর অভাবনীয় প্রত্যাবর্তনের গল্প
+434,Milestone,noun,Professional,অর্জনের স্মরণীয় এক ঐতিহাসিক ধাপ
+435,Breakthrough,noun,Professional,অচলাবস্থা ভেঙে বড় এক সাফল্যের উদয়
+436,Paradigm,noun,Professional,চিন্তাভাবনা বা কাজের প্রতিষ্ঠিত রূপরেখা
+437,Framework,noun,Professional,পরিকল্পনা বাস্তবায়নের সুসংগঠিত কাঠামো
+438,Methodology,noun,Professional,কাজের বিজ্ঞানসম্মত নিয়মমাফিক পদ্ধতি
+439,Implementation,noun,Professional,কাগজের পরিকল্পনা বাস্তবে প্রয়োগ করা
+440,Execution,noun,Professional,চূড়ান্ত নিপুণতায় কাজ সম্পন্নকরণ
+441,Evaluation,noun,Professional,কাজের মান ও ফলাফল নিখুঁতভাবে যাচাই
+442,Assessment,noun,Professional,দক্ষতা বা পরিস্থিতির প্রাথমিক পরিমাপ
+443,Appraisal,noun,Professional,যোগ্যতার আনুষ্ঠানিক স্বীকৃতি ও দাম দেওয়া
+444,Endeavor,noun/verb,Professional,মহৎ কোনো লক্ষ্য অর্জনের অক্লান্ত চেষ্টা
+445,Venture,noun,Professional,ঝুঁকিপূর্ণ কিন্তু লাভজনক নতুন উদ্যোগ
+446,Enterprise,noun,Professional,বৃহৎ বাণিজ্যিক বা শিল্প প্রতিষ্ঠান
+447,Corporate,adj,Professional,পেশাদার যৌথ বাণিজ্যিক প্রতিষ্ঠান সংক্রান্ত
+448,Organization,noun,Professional,সুসংগঠিত প্রাতিষ্ঠানিক সংস্থা
+449,Hierarchy,noun,Professional,উর্ধ্বতন থেকে অধস্তন পর্যন্ত পদের বিন্যাস
+450,Colleague,noun,Professional,একই কর্মক্ষেত্রের সহযোদ্ধা বা সহকর্মী
+451,Peer,noun,Professional,একই যোগ্যতা বা সমমানের অন্য কর্মী
+452,Mentor,noun,Professional,অভিজ্ঞ পথপ্রদর্শক ও সুপরামর্শক
+453,Mentee,noun,Professional,মেন্টরের কাছ থেকে পরামর্শ নেওয়া শিক্ষার্থী
+454,Protégé,noun,Professional,গুরু যাঁর ক্যারিয়ার গড়ে দিতে সহায়তা করেন
+455,Advocate,noun/verb,Professional,কারও অধিকার বা ধারণার পক্ষে জোরালো সমর্থন
+456,Ambassador,noun,Professional,প্রতিষ্ঠানের ইতিবাচক ভাবমূর্তি বহনকারী দূত
+457,Consultant,noun,Professional,বিশেষজ্ঞ পরামর্শক
+458,Specialist,noun,Professional,সুনির্দিষ্ট একটি বিষয়ে গভীর দক্ষতাসম্পন্ন বিশেষজ্ঞ
+459,Generalist,noun,Professional,যিনি অনেকগুলো বিষয়ে মাঝারি ধারণা রাখেন
+460,Vision,noun,Professional,ভবিষ্যত নিয়ে দূরদৃষ্টি ও বড় স্বপ্ন
+461,Mission,noun,Professional,বর্তমান সময়ে নির্দিষ্ট লক্ষ্য পূরণের ব্রত
+462,Core Value,noun,Professional,প্রতিষ্ঠানের ভিত্তিপ্রস্তর মূল নৈতিক নীতিমালা
+463,Philosophy,noun,Professional,জীবন বা কাজের পেছনের মৌলিক দৃষ্টিভঙ্গি
+464,Ethic,noun,Professional,সততা ও কর্তব্যবোধের অভ্যন্তরীণ নীতি
+465,Integrity,noun,Professional,কারও নজর না থাকলেও সৎ থাকা
+466,Humility,noun,Professional,সফলতার পরেও নির্লোভ বিনয় বজায় রাখা
+467,Empathy,noun,Professional,অন্যের কষ্ট নিজের মন দিয়ে অনুভব করার ক্ষমতা
+468,Compassion,noun,Professional,অন্যের বিপদে দয়া ও পাশে দাঁড়ানোর আকুলতা
+469,Tolerance,noun,Professional,ভিন্নমত বা প্রতিকূলতা সহ্য করার ধৈর্য
+470,Patience,noun,Professional,কঠিন সময়ে শান্ত থেকে অপেক্ষা করার গুণ
+471,Discipline,noun,Professional,মন না চাইলেও সঠিক কাজটি নিয়মমাফিক করা
+472,Focus,noun/verb,Professional,বিক্ষিপ্ত না হয়ে এক লক্ষ্যের প্রতি একাগ্র থাকা
+473,Dedication,noun,Professional,লক্ষ্যের পেছনে নিজের সময় ও শক্তি সম্পূর্ণ সমর্পণ
+474,Commitment,noun,Professional,যেকোনো মূল্যে কথা বা প্রতিশ্রুতি রক্ষা করা
+475,Excellence,noun,Professional,"সাধারণ নয়, কাজের সর্বোচ্চ শ্রেষ্ঠত্ব অর্জন"
+476,Perfection,noun,Professional,ত্রুটিহীন নিখুঁত রূপ
+477,Authenticity,noun,Professional,কোনো ভণিতা ছাড়া খাঁটি নিজস্বতা বজায় রাখা
+478,Credibility,noun,Professional,কাজে নির্ভরযোগ্যতা দিয়ে তৈরি হওয়া আস্থা
+479,Prestige,noun,Professional,সমাজে কাজের জন্য পাওয়া সম্ভ্রান্ত সম্মান
+480,Reputation,noun,Professional,পেশাদার সুনামী ও গ্রহণযোগ্যতা
+481,Legacy,noun,Professional,পৃথিবী ছেড়ে যাওয়ার পরও থেকে যাওয়া অনন্য অবদান
+482,Destiny,noun,Professional,ভাগ্যের লিখনি ও চূড়ান্ত পরিণতি
+483,Ambition,noun,Professional,জীবনে বড় কিছু অর্জনের তীব্র আকাঙ্ক্ষা
+484,Aspiration,noun,Professional,উচ্চতম পর্যায়ে পৌঁছানোর পবিত্র স্বপ্ন
+485,Triumph,noun,Professional,সংগ্রামের শেষে অর্জিত মহিমান্বিত বিজয়
+486,Victory,noun,Professional,প্রতিদ্বন্দ্বিতায় চূড়ান্ত জয়লাভ
+487,Overcome,verb,Professional,যেকোনো প্রতিকূলতা জয় করে পার হওয়া
+488,Persevere,verb,Professional,যত বাধাই আসুক না কেন শক্ত হয়ে টিকে থাকা
+489,Prosper,verb,Professional,আর্থিক ও সার্বিক উন্নতিতে ফুলেফেঁপে ওঠা
+490,Thrive,verb,Professional,"শুধু বেঁচে থাকা নয়, পূর্ণ শক্তিতে বিকশিত হওয়া"
+491,Flourish,verb,Professional,বসন্তের মতো ফুলে-ফলে সুশোভিত হওয়া
+492,Achieve,verb,Professional,নিজের মেহনত দিয়ে কাঙ্ক্ষিত লক্ষ্য ছোঁয়া
+493,Conquer,verb,Professional,ভয় বা চ্যালেঞ্জকে সম্পূর্ণ পদানত করা
+494,Master,verb,Professional,কোনো বিদ্যা বা দক্ষতায় পূর্ণ পাণ্ডিত্য অর্জন
+495,Lead,verb,Professional,সামনে থেকে অন্যদের সঠিক পথ দেখানো
+496,Inspire,verb,Professional,অন্যের বুকে স্বপ্নের আগুন জ্বালিয়ে দেওয়া
+497,Empower,verb,Professional,অন্যকে নিজের পায়ে দাঁড়ানোর শক্তি জোগানো
+498,Transform,verb,Professional,সাধারণ অবস্থা থেকে অসাধারণে রূপান্তর করা
+499,Elevate,verb,Professional,নিজের মান ও অবস্থানকে এক ধাপ উঁচুতে তোলা
+500,Excel,verb,Professional,অন্য সবার চেয়ে নিজের কাজে অনন্য শ্রেষ্ঠত্ব দেখানো
