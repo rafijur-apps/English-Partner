@@ -115,7 +115,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
           </div>
 
           {/* Developer Credit */}
-          <div className="p-4 rounded-2xl bg-gradient-to-r from-sky-500/10 via-indigo-500/10 to-slate-950 border border-sky-500/20 text-center space-y-1.5">
+          <div className="p-4 rounded-2xl bg-gradient-to-r from-sky-500/10 via-indigo-500/10 to-slate-950 border border-sky-500/20 text-center space-y-2">
             <div className="flex items-center justify-center gap-1 text-xs font-semibold text-slate-300">
               <span>Made with</span>
               <Heart className="w-3.5 h-3.5 text-rose-400 fill-rose-400 inline" />
@@ -124,9 +124,17 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
             <h4 className="text-base font-black text-white">
               Md. Rafijur Rahman (Zuboraj)
             </h4>
-            <p className="text-xs text-sky-400 font-medium">
-              English Partner Creator & Developer
-            </p>
+            <div className="pt-1">
+              <a
+                href="https://www.linkedin.com/in/mdrafijur"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold text-xs transition-all hover:scale-105 active:scale-95 shadow-md shadow-sky-500/20"
+              >
+                <span>LinkedIn প্রোফাইল দেখুন</span>
+                <ExternalLink className="w-3.5 h-3.5" />
+              </a>
+            </div>
           </div>
         </div>
 
