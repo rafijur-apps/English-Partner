@@ -1,22 +1,28 @@
 import React from 'react';
-import { Volume2, Moon, Sun, Info, Trophy, BookOpen, MessageSquare } from 'lucide-react';
+import { Volume2, Moon, Sun, Info, Trophy, BookOpen, MessageSquare, User, Cloud, CheckCircle2 } from 'lucide-react';
 
 interface HeaderProps {
   isDarkMode: boolean;
   onToggleTheme: () => void;
   onOpenAbout: () => void;
+  onOpenSync: () => void;
   activeTab: 'sentences' | 'vocabulary' | 'progress';
   onSelectTab: (tab: 'sentences' | 'vocabulary' | 'progress') => void;
   completedCount: number;
+  currentUsername: string | null;
+  isSyncing: boolean;
 }
 
 export const Header: React.FC<HeaderProps> = ({
   isDarkMode,
   onToggleTheme,
   onOpenAbout,
+  onOpenSync,
   activeTab,
   onSelectTab,
   completedCount,
+  currentUsername,
+  isSyncing,
 }) => {
   return (
     <header className="sticky top-0 z-40 w-full bg-slate-900/95 dark:bg-slate-900/95 border-b border-slate-800 backdrop-blur-md transition-colors shadow-sm">
@@ -92,8 +98,43 @@ export const Header: React.FC<HeaderProps> = ({
           </button>
         </nav>
 
-        {/* Right Controls */}
+        {/* Right Controls: User Sync Badge, About & Theme */}
         <div className="flex items-center gap-2 shrink-0">
+          {/* User Cloud Sync Badge Button */}
+          <button
+            onClick={onOpenSync}
+            className={`px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-xl transition-all flex items-center gap-2 text-xs font-bold cursor-pointer border ${
+              currentUsername
+                ? 'bg-emerald-500/15 border-emerald-500/30 hover:bg-emerald-500/25 text-emerald-300 shadow-sm'
+                : 'bg-sky-500/15 border-sky-500/30 hover:bg-sky-500/25 text-sky-300'
+            }`}
+            title="ইউজার লগইন ও ক্রস-ডিভাইস ক্লাউড সিঙ্ক"
+          >
+            {currentUsername ? (
+              <>
+                <User className="w-3.5 h-3.5 text-emerald-400" />
+                <span className="font-mono text-white text-[11px] sm:text-xs max-w-[80px] sm:max-w-[110px] truncate">
+                  {currentUsername}
+                </span>
+                <span className="hidden xs:inline-flex items-center gap-1 text-[10px] px-1.5 py-0.2 rounded bg-emerald-500/20 text-emerald-300 font-bold">
+                  {isSyncing ? (
+                    <span className="animate-spin">🔄</span>
+                  ) : (
+                    <>
+                      <Cloud className="w-3 h-3 text-emerald-400" />
+                      <span>সিঙ্কড</span>
+                    </>
+                  )}
+                </span>
+              </>
+            ) : (
+              <>
+                <Cloud className="w-3.5 h-3.5 text-sky-400" />
+                <span className="text-[11px] sm:text-xs">সিঙ্ক লগইন</span>
+              </>
+            )}
+          </button>
+
           {/* About & Netlify Guide Modal */}
           <button
             onClick={onOpenAbout}
