@@ -338,20 +338,20 @@ export const VocabularyTestScreen: React.FC<VocabularyTestScreenProps> = ({
 
                       {/* Word Info */}
                       <div className="min-w-0">
-                        {/* Bengali Meaning (Prominent on Top) */}
+                        {/* Bengali Meaning */}
                         <h4 className="text-base sm:text-lg font-bold text-white tracking-tight truncate">
                           {vocab.bengali}
                         </h4>
 
-                        {/* English Word & Tags (On Bottom) */}
-                        <div className="flex items-center gap-2 mt-0.5">
-                          <span className="text-sm font-semibold text-sky-300 tracking-wide font-mono">
+                        {/* English Word (Same font size & weight as Bengali) */}
+                        <div className="flex items-center gap-2 mt-1">
+                          <span className="text-base sm:text-lg font-bold text-sky-300 tracking-tight">
                             {vocab.word}
                           </span>
-                          <span className="text-[10px] font-semibold uppercase px-1.5 py-0.2 rounded bg-slate-700/80 text-slate-300">
+                          <span className="text-[10px] font-semibold uppercase px-1.5 py-0.5 rounded bg-slate-700/80 text-slate-300">
                             {vocab.partOfSpeech}
                           </span>
-                          <span className="text-[11px] text-slate-400 hidden sm:inline">
+                          <span className="text-xs text-slate-400 hidden sm:inline">
                             · {vocab.category}
                           </span>
                         </div>

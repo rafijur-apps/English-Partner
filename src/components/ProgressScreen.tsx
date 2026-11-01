@@ -259,7 +259,7 @@ export const ProgressScreen: React.FC<ProgressScreenProps> = ({
                     </button>
                   </div>
                   <h4 className="text-base font-extrabold text-white">{item.bengali}</h4>
-                  <p className="text-xs text-sky-300 font-medium font-mono">{item.word}</p>
+                  <p className="text-base font-bold text-sky-300 tracking-tight">{item.word}</p>
                 </div>
               ))}
             </div>
