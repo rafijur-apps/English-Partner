@@ -338,10 +338,16 @@ export const VocabularyTestScreen: React.FC<VocabularyTestScreenProps> = ({
 
                       {/* Word Info */}
                       <div className="min-w-0">
-                        <div className="flex items-center gap-2">
-                          <h4 className="text-base font-bold text-white tracking-tight truncate">
+                        {/* Bengali Meaning (Prominent on Top) */}
+                        <h4 className="text-base sm:text-lg font-bold text-white tracking-tight truncate">
+                          {vocab.bengali}
+                        </h4>
+
+                        {/* English Word & Tags (On Bottom) */}
+                        <div className="flex items-center gap-2 mt-0.5">
+                          <span className="text-sm font-semibold text-sky-300 tracking-wide font-mono">
                             {vocab.word}
-                          </h4>
+                          </span>
                           <span className="text-[10px] font-semibold uppercase px-1.5 py-0.2 rounded bg-slate-700/80 text-slate-300">
                             {vocab.partOfSpeech}
                           </span>
@@ -349,9 +355,6 @@ export const VocabularyTestScreen: React.FC<VocabularyTestScreenProps> = ({
                             · {vocab.category}
                           </span>
                         </div>
-                        <p className="text-xs sm:text-sm font-medium text-sky-300 mt-0.5 truncate">
-                          {vocab.bengali}
-                        </p>
                       </div>
                     </div>
 

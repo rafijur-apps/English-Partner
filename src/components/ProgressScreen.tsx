@@ -211,9 +211,9 @@ export const ProgressScreen: React.FC<ProgressScreenProps> = ({
                       <Volume2 className="w-4 h-4" />
                     </button>
                   </div>
-                  <p className="text-sm font-bold text-white leading-snug">{sentence.english}</p>
-                  <p className="text-xs text-slate-300 border-l-2 border-sky-400/60 pl-2">
-                    {sentence.bengali}
+                  <p className="text-base font-bold text-white leading-snug">{sentence.bengali}</p>
+                  <p className="text-xs text-sky-300 font-medium border-l-2 border-sky-400/60 pl-2">
+                    {sentence.english}
                   </p>
                 </div>
               ))}
@@ -258,8 +258,8 @@ export const ProgressScreen: React.FC<ProgressScreenProps> = ({
                       <Volume2 className="w-3.5 h-3.5" />
                     </button>
                   </div>
-                  <h4 className="text-base font-extrabold text-white">{item.word}</h4>
-                  <p className="text-xs text-amber-200/90 font-medium">{item.bengali}</p>
+                  <h4 className="text-base font-extrabold text-white">{item.bengali}</h4>
+                  <p className="text-xs text-sky-300 font-medium font-mono">{item.word}</p>
                 </div>
               ))}
             </div>

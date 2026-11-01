@@ -429,17 +429,17 @@ export const SentencePracticeScreen: React.FC<SentencePracticeScreenProps> = ({
                     </div>
                   </div>
 
-                  {/* English Sentence */}
+                  {/* Bengali Meaning (Prominent on Top) */}
                   <div className="mb-3">
-                    <p className="text-base sm:text-lg font-bold tracking-tight text-white leading-relaxed select-text">
-                      {sentence.english}
+                    <p className="text-lg sm:text-xl font-bold tracking-tight text-white leading-relaxed select-text">
+                      {sentence.bengali}
                     </p>
                   </div>
 
-                  {/* Bengali Meaning with Accent Border */}
-                  <div className="p-3 rounded-xl bg-slate-900/80 border-l-3.5 border-sky-400 mb-4">
-                    <p className="text-sm font-medium text-sky-300 leading-normal">
-                      {sentence.bengali}
+                  {/* English Sentence (In Styled Container on Bottom) */}
+                  <div className="p-3.5 rounded-xl bg-slate-900/80 border-l-3.5 border-sky-400 mb-4">
+                    <p className="text-base sm:text-lg font-semibold text-sky-300 tracking-tight leading-normal select-text">
+                      {sentence.english}
                     </p>
                   </div>
 
